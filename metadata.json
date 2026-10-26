@@ -1,0 +1,6 @@
+{
+  "name": "ClassPulse Live School Quiz",
+  "description": "AI-powered MCQ generator and real-time synchronized live quiz platform for teachers and students across multiple laptops and computers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
